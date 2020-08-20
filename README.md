@@ -1,7 +1,7 @@
 # Data Science Projects
 This is a repository of some example projects I've done. 
 
-[coronavirus](coronavirus): Brief data analysis and curve fitting for Thailand's coronavirus cases. The project was meant to be predictive but was left unfinished.
+[coronavirus](coronavirus): Brief data analysis and curve fitting for Thailand's coronavirus cases. The project was meant to use data from all countries and be predictive, but was left unfinished.
 
 [housing](housing): Prediction of California housing prices using linear regression.
 
