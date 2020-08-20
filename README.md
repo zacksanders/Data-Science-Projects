@@ -10,4 +10,5 @@ This is a repository of some example projects I've done.
 [wages](wages): Prediction of wages using a random forest of logic trees.
 
 By Zachary Sanders-Bellis
+
 email: zack@zanderz.com
