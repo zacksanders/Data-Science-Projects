@@ -1,4 +1,4 @@
-# Data-Science-Projects
+# Data Science Projects
 This is a repository of some example projects I've done. 
 
 [coronavirus](coronavirus): Brief data analysis and curve fitting for Thailand's coronavirus cases. The project was meant to be predictive but was left unfinished.
