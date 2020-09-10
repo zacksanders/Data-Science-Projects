@@ -7,7 +7,7 @@ This is a repository of some example projects I've done.
 
 [housing](housing): Prediction of California housing prices using linear regression.
 
-[origami_disk_for_hoolia](origami_disk_for_hoolia): A short script to find line segments of a disk for DNA origami.
+[origami disc for hoolia](origami_disc_for_hoolia): A short script to find line segments of a disk for DNA origami.
 
 [wages](wages): Prediction of wages using a random forest of logic trees.
 
